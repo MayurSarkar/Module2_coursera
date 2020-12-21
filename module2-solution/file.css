@@ -7,6 +7,9 @@ p {
   margin-left: auto;
   font-family: Helvetica;
   color: white;
+  position: relative;
+  top: 0%;
+  left: 100%;
 }
 
 h1 {
